@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ecolandbot",
+  "private_key_id": "8009fea304c0dc9c3977b8d2e17387ac51662a78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4ogV8tObJ19Qr\nIYkBdXuX+wo5lwJMJ4iqADCh0H17j7e7fj4T1kPnQtRVUyRqNRq4GYABIj0oNg1Y\nZwrSp85wWcof7hNkIqEdLhi/rJ4B5QmGdROllgpi2LsP2ioMhZMSp0aH2FSypyOP\nOMu2lwRLvda3xvKbTLF8pgrQdOf/0Yg0gIUOz4/oztTwzLGMLEJ6wBaSg4JA8A30\n1oQtlgfub0rK92uSxav8+mYhLDXTGSJPbt8cFgFTkgl8SHdDh72GQUZ7AevuzVXu\nkHqZOOCMXaY/k6e9aB447jIoqcfOKYE5ZuhcOuvi3QsjPUWZmVX86g3dUGYgR+NF\ncUHcbQvvAgMBAAECggEAUXOo2As2hXUhtKVmu64IiFPHfwCPkukd8WGEEt7XfNs6\nQwy+diHgcvWYlsvHFNO4pd8aCWYBdOvjl0xeCfDdsdLqyItPIq3kRetAH88XJd7V\nBOxBbptymYjjfWrRghSrfV8uTl+xfd8eYOC9fh/BVWi6gPjTro92/XaC7tOkRcZ6\nJgcQpmU6dRM8net3IPAm6KoJeh+TNVnjHK2XtliF2Z3H+ublHT5Kt3CZqoqf2ZbU\nAc3cBUT370dII02Xyb1o/q2ZahsqqITITLwYRvZZAy3Xn70zXT4cDWOUTebFIvui\nXXGgEkfyldmeczTbx+W2IxQP0tSx6Gux8V8258i3AQKBgQDlcAXFeVcubNME2suW\n6VaHef8nf1gt3J/RpLuKnDyeqKT42AyfvPSHLd+mUIxZWK01iv4qS0gnLzbtPbYO\nDFCoju82bp/zGAaPDC8Z/EPqKUfpXzHbNBAEKV/b+VruWgoilI4fE1oS1hNa84CC\n6Louqetsm5q3sfs3pWPE4oadxwKBgQDOAhiC1FH69vmH9wxkns26N24tzGUnuMZ0\nyBg+ht0Oucl0uSAQglepOIykqDXMkt8f+dV0L5LMyY0yQFznGLW2OP9ljLJB6KHL\nHvoN/d9JdrduRTWR7w0TTOcmSWtMZ4HIrOMCM7LC9/7rJluVPj8VHMkxs0pAqUGH\nPd0/JUFAmQKBgQDcg4pIfZL5H8bAx7kc1i9ADlTZlV8e1QkV6QoG8pqgst27/YpE\njMtIkSJ/KrN5u+zdpTUbWTeD0bEs2z76yYNMPfRTkIdSkSjcm405oGd1yy8+cSvt\nzmAGX+2t8j8fDpLnIXhnDaZorC/2HkrJhvxKlS2cOQG+w+T7Wo5FUKKpSQKBgGoS\nCizSxaNCpxiqy2bDnYnUIJbUNwFM0mIu5MzNA+UhI+lFqIzXj+tBgqkFMy4yMVB1\ngsJf/GYVIO5O1Ybn4igBEP9ogiANd8DuIjIyFVXuGmRcnkiVnVXisuGzy9t7MAfz\nfK8Vj2Vz632IMn+VnUVxnOZKOmEwxNytrc1lkUOBAoGBAI28khz870XK2wErtujj\nNAjJ8m6chbaiZSsCnqj0AgZh6ygLBrScxFZM7yzSuC/KiBUg57lSTuUW0sT/djZY\nQMqylWMfLAxsWawJcA58Vrs7yXZDrey/ywv67TXTmLgDKvxiHIP7QhNH4Ch+SFqN\napDTe8XdN1yTI2JG6Di3GDSS\n-----END PRIVATE KEY-----\n",
+  "client_email": "telegrambotsheets@ecolandbot.iam.gserviceaccount.com",
+  "client_id": "104667016158652758194",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegrambotsheets%40ecolandbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
